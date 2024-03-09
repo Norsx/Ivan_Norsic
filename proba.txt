@@ -1,0 +1,18 @@
+NAPRAVITI REPOZITORIJ: 'Ella_Jancic'
+NAPRAVITI NOVI TOKEN
+OTVORITI TERMINAL
+COPY--> PASTE PRVI SET
+
+mkdir Zadace
+cd Zadace
+touch proba.txt
+git init
+git add .
+git commit -m 'prvo spremanje'
+git branch -m gazda
+
+COPY LINK NA REPOZIROTIJU
+PASTE TOKEN
+
+git remote add origin https://github.com/ime na githubu/Ella_Jancic.git
+git push -u origin gazda
